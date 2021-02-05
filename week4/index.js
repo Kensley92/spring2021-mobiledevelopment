@@ -18,5 +18,5 @@ const s = new Sidebar({
 */
 
 
-
+//having the render display on console 
 console.log(s.render());
